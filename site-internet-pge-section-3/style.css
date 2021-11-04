@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2? family= Crimson+Pro:wght@200 & display=swap');
+h1{
+	color: purple;
+	background-color: none;
+	font-family: 'Carmin Pro', sans-serif; 
+	font-size: 50px;
+
+}
+
+h2{
+	color: purple;
+	font-size:50px; 
+}
+body{ text-align: center;
+	background-image: url(https://www.pastryandtravel.com/wp-content/uploads/2020/04/BoisNoir-75x50-1.jpg);
+
+
+stroke-linecap: 2.0;
+}
+a {text-decoration: none;
+	color: black;
+}
+div{ width: 75%;
+	padding: 24px;
+	margin:24px auto;
+	background-color:white ;
+	border: solid 1px white;
+	border-radius: 8px;
+	box-shadow: 4px 6px 0px 0px #00000030
+	 }
+	 # list-inline li{
+	 	display: inline;
+	 	margin: 0,8px;
+
+	 background-color: brown
+	}
+.button-blue {
+	background-color: purple;
+	color: white;
+	padding: 16px;
+	border-radius: 6px;
+	border: 1px blue solid;
+	margin: 24px auto;
+	font-weight: bold;
+	display: block;
+	width: 30%;
+	transition: 1s
+
+}
+	 
+.button-blue:hover{
+ 	background-color: white;
+ 	color:red;
+ 	transition: 1s;
+	 }
+img{
+	border-radius: 55%;
+
+}
+#list-inline{
+	padding: 0;
+}
+#list-inline li{
+	display: inline; 
+	margin: 0 8px;
+	font-size: 130px;
+}
+
